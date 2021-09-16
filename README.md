@@ -1,16 +1,24 @@
-### Hi there 👋
+# Konnichiwa
+![UBW](https://user-images.githubusercontent.com/64977439/133675079-14944253-6847-45a4-ab2b-0206216b0610.png)
+> I am the bone of my sword.
 
-<!--
-**Minerva-007/Minerva-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, you came acorss my Github page. This is Mueez-ul-Haq, a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
 
-Here are some ideas to get you started:
+## What I do
+My interests in mechanical engineering are:
+- Machine design
+- Thermofluids
+- Modelling and simulation
+- Design and analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests in programming include programming useful scripts and blocks of code after experimenting a lot.
+
+## Featured repos
+- [An engine modelling and simulation project](https://github.com/Minerva-007/Intake-and-Exhaust)
+- [A slider-crank model made in C using WinGDI](https://github.com/Minerva-007/Piston-Simulation)
+- [A barebones http server using WinSock](https://github.com/Minerva-007/HTTP-server)
+- [An automatic Whatsapp replier using simulated human actions](https://github.com/Minerva-007/Auto-Whatsapp-Replier)
+- [A MATLAB script for modelling capacitor based simple pulsed power systems](https://github.com/Minerva-007/Research-1)
+
+## Contact
+You can reach me out at Github for any thing you'd like to discuss.
