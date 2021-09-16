@@ -20,5 +20,8 @@ My interests in programming include programming useful scripts and blocks of cod
 - [An automatic Whatsapp replier using simulated human actions](https://github.com/Minerva-007/Auto-Whatsapp-Replier)
 - [A MATLAB script for modelling capacitor based simple pulsed power systems](https://github.com/Minerva-007/Research-1)
 
+## Teammates
+- [Faraday-Kun](https://github.com/Faraday-kun)
+
 ## Contact
 You can reach me out at Github for any thing you'd like to discuss.
