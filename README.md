@@ -2,7 +2,7 @@
 ![UBW](https://user-images.githubusercontent.com/64977439/133675079-14944253-6847-45a4-ab2b-0206216b0610.png)
 > I am the bone of my sword.
 
-Hi, you came acorss my Github page. This is Mueez-ul-Haq (aka Minerva_007), a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
+Hi, you came across my Github page. This is Mueez-ul-Haq (aka Minerva_007), a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
 
 ## What I do
 My interests in mechanical engineering are:
