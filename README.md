@@ -9,6 +9,7 @@ I have interest and project experience in following branches:
 - Game Development
 - Data Structures and Algorithms
 - Software Development
+
 **Technologies utilized:** C, C++, Assembly Language, Visual Basic for Applications. 
 
 ### As a mechanical engineer:
@@ -20,6 +21,8 @@ I am a dedicated engineer with research focus on energy resources. My interests 
 - Thermofluids
 - Machine and Mechanism
 - Design and Manufacturing
+
+
 **Technologies utilized:** MATLAB with Simulink, Mathcad, SOLIDWORKS, EES, Arduino.
 
 
