@@ -1,17 +1,27 @@
-# Konnichiwa
-![UBW](https://user-images.githubusercontent.com/64977439/133675079-14944253-6847-45a4-ab2b-0206216b0610.png)
-> I am the bone of my sword.
+# Hai, Konnichiwa!
 
-Hi, you came across my Github page. This is Mueez-ul-Haq (aka Minerva_007), a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
+Hi, there. This is Mueez-ul-Haq (aka Minerva_007): a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
 
 ## What I do
-My interests in mechanical engineering are:
-- Machine design
-- Thermofluids
+### As a programmer:
+I have interest and project experience in following branches:
+- Network Programming
+- Game Development
+- Data Structures and Algorithms
+- Software Development
+**Technologies utilized:** C, C++, Assembly Language, Visual Basic for Applications. 
+
+### As a mechanical engineer:
+I am a dedicated engineer with research focus on energy resources. My interests are:
 - Modelling and simulation
 - Design and analysis
+- Industrial Automation
+- Energy Resources
+- Thermofluids
+- Machine and Mechanism
+- Design and Manufacturing
+**Technologies utilized:** MATLAB with Simulink, Mathcad, SOLIDWORKS, EES, Arduino.
 
-My interests in programming include programming useful scripts and blocks of code after experimenting a lot.
 
 ## Featured repos
 - [An engine modelling and simulation project](https://github.com/Minerva-007/Intake-and-Exhaust)
