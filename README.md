@@ -1,30 +1,39 @@
 # Hai, Konnichiwa!
 
-Hi, there. This is Mueez-ul-Haq (aka Minerva_007): a mechanical engineer, designer, and programmer. I am currently studying Mechanical Engineering at [UET Lahore](https://en.wikipedia.org/wiki/University_of_Engineering_and_Technology,_Lahore) and am a self-taught programmer. 
+Hello there, this is Mueez-ul-Haq (aka Minerva-007). Dabbling through several domains, I excel in mechanical engineering, low-level development, and reverse engineering. 
 
 ## What I do
-### As a programmer:
-I have interest and project experience in following branches:
+
+### Mechanical Engineering
+My major is in renewable energy resources, with a paper published in my university's conference. Following is a list of interests:
+- Renewable energy resources
+	- Resource assessment, prediction, utilization.
+- Thermofluid simulations
+- Design Engineering (machine and mechanisms)
+- Design for Manufacturing
+- Computational Engineering 
+	- Metaheuristics, Monte Carlo solvers, classical techniques.
+
+Tools: MATLAB, Simulink, Arduino, SOLIDWORKS, Ricardo WAVE, EES, MathCAD, PVSyst, Siemens PLM.
+
+### Low-level developmet
+Developing programs to learn technologies that can help me in daily life is the theme behind my scripts. Following are my interests:
+- Algorithms, Data Structures
 - Network Programming
-- Game Development
-- Data Structures and Algorithms
-- Software Development
+- Compiler Construction
+- Bash/PS scripting
 
-**Technologies utilized:** C, C++, Assembly Language, Visual Basic for Applications. 
+Tools: gcc, g++, masm, cmd/powershell, bash, winsock, gdb.
 
-### As a mechanical engineer:
-I am a dedicated engineer with research focus on energy resources. My interests are:
-- Modelling and simulation
-- Design and analysis
-- Industrial Automation
-- Energy Resources
-- Thermofluids
-- Machine and Mechanism
-- Design and Manufacturing
+Environments: Visual Studio, Dev-cpp, Ubuntu@WSL.
 
+### Cybersecurity
+I participate in jeopardy-style CTFs in rev/pwn category, as well as practice weekly. I play for [Task_Hashed](https://ctftime.org/team/175900) and sometimes [JHDiscord](https://ctftime.org/team/62434).
 
-**Technologies utilized:** MATLAB with Simulink, Mathcad, SOLIDWORKS, EES, Arduino.
+Tools: Ghidra, IDA, gdb, CyberChef, Ubuntu@WSL.
 
+## Find me
+You can find me at [Github](https://www.github.com/Minerva-007/) and at [LinkedIn](https://www.linkedin.com/in/Minerva-007)
 
 ## Featured repos
 - [An engine modelling and simulation project](https://github.com/Minerva-007/Intake-and-Exhaust)
@@ -35,6 +44,3 @@ I am a dedicated engineer with research focus on energy resources. My interests 
 
 ## Teammates
 - [Faraday-Kun](https://github.com/Faraday-kun)
-
-## Contact
-You can reach me out at Github for any thing you'd like to discuss.
