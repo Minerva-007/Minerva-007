@@ -5,7 +5,7 @@ Hello there, this is Mueez-ul-Haq (aka Minerva-007). Dabbling through several do
 ## What I do
 
 ### Mechanical Engineering
-My major is in renewable energy resources, with a paper published in my university's conference. Following is a list of interests:
+My major is in renewable energy resources, with a paper published in ICME UET 2022. Following is a list of interests:
 - Renewable energy resources
 	- Resource assessment, prediction, utilization.
 - Thermofluid simulations
@@ -23,7 +23,7 @@ Developing programs to learn technologies that can help me in daily life is the 
 - Compiler Construction
 - Bash/PS scripting
 
-Tools: gcc, g++, masm, cmd/powershell, bash, winsock, gdb.
+Tools: gcc, g++, masm, cmd/powershell, bash, winsock/winGDI, gdb.
 
 Environments: Visual Studio, Dev-cpp, Ubuntu@WSL.
 
