@@ -33,7 +33,7 @@ I participate in jeopardy-style CTFs in rev/pwn category, as well as practice we
 Tools: Ghidra, IDA, gdb, CyberChef, Ubuntu@WSL.
 
 ## Find me
-You can find me at [Github](https://www.github.com/Minerva-007/) and at [LinkedIn](https://www.linkedin.com/in/Minerva-007)
+You can find me at [Github](https://www.github.com/Minerva-007/), [LinkedIn](https://www.linkedin.com/in/Minerva-007) and [Twitter](https://www.twitter.com/__minerva__007) 
 
 ## Featured repos
 - [An engine modelling and simulation project](https://github.com/Minerva-007/Intake-and-Exhaust)
