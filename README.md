@@ -28,7 +28,7 @@ Tools: gcc, g++, masm, cmd/powershell, bash, winsock/winGDI, gdb.
 Environments: Visual Studio, Dev-cpp, Ubuntu@WSL.
 
 ### Cybersecurity
-I participate in jeopardy-style CTFs in rev/pwn category, as well as practice weekly. I play for [Task_Hashed](https://ctftime.org/team/175900) and sometimes [JHDiscord](https://ctftime.org/team/62434).
+I participate in jeopardy-style CTFs in rev/pwn category, as well as practice weekly. I play for [/bin/cat](https://ctftime.org/team/211363) and sometimes [JHDiscord](https://ctftime.org/team/62434).
 
 Tools: Ghidra, IDA, gdb, CyberChef, Ubuntu@WSL.
 
